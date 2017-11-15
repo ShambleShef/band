@@ -2,8 +2,13 @@
   width: 600px;
   float: right;
   background-color: red;
+  border: 8px solid black;
+  padding: 4px;
+  margin: 4px;
 }
 
 .image {
   float: left;
+  padding: 4px;
+  margin: 4px;
 }
